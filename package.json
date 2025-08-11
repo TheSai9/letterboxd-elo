@@ -1,5 +1,6 @@
 {
   "name": "letterboxd-elo",
+  "homepage": "https://thesai9.github.io/letterboxd-elo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
